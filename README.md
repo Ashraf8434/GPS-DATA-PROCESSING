@@ -33,6 +33,6 @@ To run the scripts and process the data, you will need the following software:
    git clone https://github.com/Ashraf8434/co-seismic-deformation-analysis.git
    cd GPS-DATA-PROCESSING.git
 
-   Acknowledgments
+ ### Acknowledgments
 
 I would like to thank Dr. Prabhat Sir, my post-doc mentor, and the entire Computation Geodynamics Lab at IISc for their support. Special thanks to my mentor Attreyee Ghosh at the Centre for Earth Science, IISc Bangalore, for guiding me through this research project.
