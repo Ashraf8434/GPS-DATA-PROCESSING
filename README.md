@@ -1,2 +1,33 @@
 # GPS-DATA-PROCESSING
-To Estimate The Co-Seismic Deformation Using GPS Measurements
+
+# Co-Seismic Surface Deformation Analysis
+
+This repository contains the data, scripts, and documentation for analyzing co-seismic surface deformation using GPS measurements. The focus of the study is the Gorkha region, leveraging continuous GPS data collected before and after the 2015 earthquake.
+
+## Project Overview
+
+This project aims to estimate co-seismic surface deformation by processing GPS data from various stations. The analysis involves understanding the ground movements caused by the earthquake and using the data to refine models of seismic activity.
+
+## Directory Structure
+
+- `data/`: Contains raw and processed data files, including GPS time series and velocity data.
+- `scripts/`: Contains scripts for data processing, analysis, and visualization.
+- `results/`: Contains results such as plots and analysis outputs.
+- `docs/`: Contains project documentation and reports.
+
+## Getting Started
+
+### Prerequisites
+
+To run the scripts and process the data, you will need the following software:
+
+- [GAMIT/GLOBK](http://geoweb.mit.edu/gg/)
+- [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/)
+- Bash
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Ashraf8434/co-seismic-deformation-analysis.git
+   cd co-seismic-deformation-analysis
