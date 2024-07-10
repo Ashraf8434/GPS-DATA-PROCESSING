@@ -36,3 +36,7 @@ To run the scripts and process the data, you will need the following software:
  ### Acknowledgments
 
 I would like to thank Dr. Prabhat Sir, my post-doc mentor, and the entire Computation Geodynamics Lab at IISc for their support. Special thanks to my mentor Attreyee Ghosh at the Centre for Earth Science, IISc Bangalore, for guiding me through this research project.
+
+### Contact
+
+For any questions or feedback, please contact me at 23mc0049@iitism.ac.in
