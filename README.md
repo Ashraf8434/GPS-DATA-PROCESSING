@@ -29,5 +29,6 @@ To run the scripts and process the data, you will need the following software:
 
 1. **Clone the repository:**
    ```bash
+   git clone https://github.com/Ashraf8434/GPS-DATA-PROCESSING.git
    git clone https://github.com/Ashraf8434/co-seismic-deformation-analysis.git
-   cd co-seismic-deformation-analysis
+   cd GPS-DATA-PROCESSING.git
