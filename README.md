@@ -34,9 +34,57 @@ To run the scripts and process the data, you will need the following software:
    cd GPS-DATA-PROCESSING.git
 
  ### Acknowledgments
+ I express immense gratitude to everyone who supported my project, "To Estimate the
 
-I would like to thank Dr. Prabhat Sir, my post-doc mentor, and the entire Computation Geodynamics Lab at IISc for their support. Special thanks to my mentor Attreyee Ghosh at the Centre for Earth Science, IISc Bangalore, for guiding me through this research project.
+Co-Seismic Surface Deformation Using GPS Measurement".
 
+First, I express my deepest gratitude to Dr. Attreyee Ghosh at the Centre for Earth
+
+Sciences, Indian Institute of Science (IISc) Bangalore, for her unwavering support, in-
+
+sightful guidance, and expertise in Geodynamics. Her suggestions, constructive feedback, and
+
+encouragement were crucial throughout completing this project report.
+
+I am very thankful to Dr. Prabhat Kumar for his continuous support and guidance. His
+
+expertise and advice were invaluable in overcoming challenges and advancing my research.
+
+I am grateful to the entire Computational-Geodynamics Lab team for their support and
+
+encouragement throughout this project. Their help and collaboration were crucial to its success.
+
+I am grateful to the faculty of Applied Geophysics at IIT (ISM), Dhanbad, for their com-
+
+prehensive teachings and rigorous curriculum, which enhanced my knowledge and skills.
+
+I also thank the Indian Academy of Sciences for providing me with this invaluable oppor-
+
+tunity. Their Summer Research Fellowship Program has been instrumental in allowing me
+
+to undertake this project at the Indian Institute of Science (IISc) Bangalore. The exposure
+
+and experience gained during this internship have immensely benefited my academic and
+
+professional growth.
+
+I am grateful to my friends for their insights, discussions, and assistance, which helped me
+
+overcome challenges and stay motivated.
+
+Lastly, my heartfelt gratitude goes to my family for their unconditional love, unwavering
+
+support, and belief in my abilities.
+
+To all who contributed to this project’s success, your support, guidance, and encouragement
+
+have been invaluable. Thank you.
+
+Md Ashraf
+
+M.Sc (Tech) in Applied Geophysics
+
+Indian Institute of Technology (Indian School of Mines), Dhanbad
 ### Contact
 
 For any questions or feedback, please contact me at 23mc0049@iitism.ac.in
