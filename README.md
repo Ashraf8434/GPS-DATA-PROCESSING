@@ -34,51 +34,20 @@ To run the scripts and process the data, you will need the following software:
    cd GPS-DATA-PROCESSING.git
 
  ### Acknowledgments
- I express immense gratitude to everyone who supported my project, "To Estimate the
+ I express immense gratitude to everyone who supported my project, "To Estimate the Co-Seismic Surface Deformation Using GPS Measurement".
+ First, I express my deepest gratitude to Dr. Attreyee Ghosh at the Centre for Earth Sciences, Indian Institute of Science (IISc) Bangalore, for her unwavering support, insightful guidance, and expertise in Geodynamics. Her suggestions, constructive feedback, and encouragement were crucial throughout completing this project report.
 
-Co-Seismic Surface Deformation Using GPS Measurement".
+I am very thankful to Dr. Prabhat Kumar for his continuous support and guidance. His expertise and advice were invaluable in overcoming challenges and advancing my research. I am grateful to the entire Computational-Geodynamics Lab team for their support and encouragement throughout this project. Their help and collaboration were crucial to its success.
 
-First, I express my deepest gratitude to Dr. Attreyee Ghosh at the Centre for Earth
+I am grateful to the faculty of Applied Geophysics at IIT (ISM), Dhanbad, for their comprehensive teachings and rigorous curriculum, which enhanced my knowledge and skills.
 
-Sciences, Indian Institute of Science (IISc) Bangalore, for her unwavering support, in-
+I also thank the Indian Academy of Sciences for providing me with this invaluable opportunity. Their Summer Research Fellowship Program has been instrumental in allowing me to undertake this project at the Indian Institute of Science (IISc) Bangalore. The exposure and experience gained during this internship have immensely benefited my academic and professional growth.
 
-sightful guidance, and expertise in Geodynamics. Her suggestions, constructive feedback, and
+I am grateful to my friends for their insights, discussions, and assistance, which helped me overcome challenges and stay motivated.
 
-encouragement were crucial throughout completing this project report.
+Lastly, my heartfelt gratitude goes to my family for their unconditional love, unwavering support, and belief in my abilities.To all who contributed to this project’s success, your support, guidance, and encouragement have been invaluable. 
 
-I am very thankful to Dr. Prabhat Kumar for his continuous support and guidance. His
-
-expertise and advice were invaluable in overcoming challenges and advancing my research.
-
-I am grateful to the entire Computational-Geodynamics Lab team for their support and
-
-encouragement throughout this project. Their help and collaboration were crucial to its success.
-
-I am grateful to the faculty of Applied Geophysics at IIT (ISM), Dhanbad, for their com-
-
-prehensive teachings and rigorous curriculum, which enhanced my knowledge and skills.
-
-I also thank the Indian Academy of Sciences for providing me with this invaluable oppor-
-
-tunity. Their Summer Research Fellowship Program has been instrumental in allowing me
-
-to undertake this project at the Indian Institute of Science (IISc) Bangalore. The exposure
-
-and experience gained during this internship have immensely benefited my academic and
-
-professional growth.
-
-I am grateful to my friends for their insights, discussions, and assistance, which helped me
-
-overcome challenges and stay motivated.
-
-Lastly, my heartfelt gratitude goes to my family for their unconditional love, unwavering
-
-support, and belief in my abilities.
-
-To all who contributed to this project’s success, your support, guidance, and encouragement
-
-have been invaluable. Thank you.
+Thank you.
 
 Md Ashraf
 
