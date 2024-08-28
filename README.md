@@ -46,6 +46,7 @@ Thank you.
 
 Md Ashraf
 M.Sc (Tech) in Applied Geophysics
+
 Indian Institute of Technology (Indian School of Mines), Dhanbad
 ### Contact
 
