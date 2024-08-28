@@ -45,6 +45,7 @@ Lastly, I thank my friends for their support and my family for their unwavering 
 Thank you.
 
 Md Ashraf
+
 M.Sc (Tech) in Applied Geophysics
 
 Indian Institute of Technology (Indian School of Mines), Dhanbad
