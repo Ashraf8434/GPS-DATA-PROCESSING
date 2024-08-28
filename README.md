@@ -34,25 +34,18 @@ To run the scripts and process the data, you will need the following software:
    cd GPS-DATA-PROCESSING.git
 
  ### Acknowledgments
- I express immense gratitude to everyone who supported my project, "To Estimate the Co-Seismic Surface Deformation Using GPS Measurement".
- First, I express my deepest gratitude to Dr. Attreyee Ghosh at the Centre for Earth Sciences, Indian Institute of Science (IISc) Bangalore, for her unwavering support, insightful guidance, and expertise in Geodynamics. Her suggestions, constructive feedback, and encouragement were crucial throughout completing this project report.
+ I extend my sincere gratitude to Dr. Attreyee Ghosh at the Centre for Earth Sciences, Indian Institute of Science (IISc) Bangalore, for her invaluable guidance and support throughout this project.
 
-I am very thankful to Dr. Prabhat Kumar for his continuous support and guidance. His expertise and advice were invaluable in overcoming challenges and advancing my research. I am grateful to the entire Computational-Geodynamics Lab team for their support and encouragement throughout this project. Their help and collaboration were crucial to its success.
+I also wish to thank Dr. Prabhat Kumar for his continuous support and expertise, as well as the entire Computational-Geodynamics Lab team for their collaboration.
 
-I am grateful to the faculty of Applied Geophysics at IIT (ISM), Dhanbad, for their comprehensive teachings and rigorous curriculum, which enhanced my knowledge and skills.
+My gratitude goes to the faculty of Applied Geophysics at IIT (ISM), Dhanbad, for their teachings and to the Indian Academy of Sciences for providing this internship opportunity through their Summer Research Fellowship Program.
 
-I also thank the Indian Academy of Sciences for providing me with this invaluable opportunity. Their Summer Research Fellowship Program has been instrumental in allowing me to undertake this project at the Indian Institute of Science (IISc) Bangalore. The exposure and experience gained during this internship have immensely benefited my academic and professional growth.
-
-I am grateful to my friends for their insights, discussions, and assistance, which helped me overcome challenges and stay motivated.
-
-Lastly, my heartfelt gratitude goes to my family for their unconditional love, unwavering support, and belief in my abilities.To all who contributed to this project’s success, your support, guidance, and encouragement have been invaluable. 
+Lastly, I thank my friends for their support and my family for their unwavering belief in me.
 
 Thank you.
 
 Md Ashraf
-
 M.Sc (Tech) in Applied Geophysics
-
 Indian Institute of Technology (Indian School of Mines), Dhanbad
 ### Contact
 
